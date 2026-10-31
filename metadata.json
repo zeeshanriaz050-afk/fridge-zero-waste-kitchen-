@@ -1,0 +1,6 @@
+{
+  "name": "Fridge-to-Plate: AI Zero-Waste Kitchen",
+  "description": "Scan leftover fridge ingredients or snap a photo to instantly generate delicious, zero-waste recipes with smart pantry substitutions and food waste tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
